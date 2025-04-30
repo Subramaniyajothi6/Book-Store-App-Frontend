@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { FaGoogle } from "react-icons/fa";
-import { Velustro } from 'uvcanvas';
+
 import { useForm } from "react-hook-form"
 import { useAuth } from '../context/AuthContext';
 
@@ -40,10 +40,7 @@ const Login = () => {
 
   return (
     <div className="relative h-screen w-full flex items-center justify-center">
-      {/* Canvas Background */}
-      <div className="absolute top-0 left-0 w-full h-full -z-10">
-        <Velustro />
-      </div>
+ 
 
       {/* Login Box */}
       <div className="relative z-20 w-full max-w-sm mx-auto bg-white shadow-md rounded px-8 py-6 bg-white/80">
