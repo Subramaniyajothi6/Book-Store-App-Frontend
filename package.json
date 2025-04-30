@@ -23,8 +23,7 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.3.0",
     "sweetalert2": "^11.6.13",
-    "swiper": "^11.2.6",
-    "uvcanvas": "^0.2.2"
+    "swiper": "^11.2.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
