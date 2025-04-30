@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useForm } from 'react-hook-form'
 import { useNavigate } from 'react-router-dom'
-import { Velustro } from 'uvcanvas';
+
 import axios from 'axios';
 import  getBaseUrl  from '../utils/baseURL';
 
@@ -58,9 +58,7 @@ const {
   return (
     <div className="relative h-screen w-full flex items-center justify-center">
     {/* Canvas Background */}
-    <div className="absolute top-0 left-0 w-full h-full -z-10">
-      <Velustro />
-    </div>
+
 
     {/* Login Box */}
     <div className="relative z-20 w-full max-w-sm mx-auto bg-white shadow-md rounded px-8 py-6 bg-white/80">
