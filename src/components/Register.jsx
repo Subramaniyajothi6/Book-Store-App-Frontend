@@ -3,7 +3,7 @@ import { Link, useNavigate,  } from 'react-router-dom'
 import { FaGoogle } from "react-icons/fa";
 import { useForm } from "react-hook-form"
 import { useAuth } from '../context/AuthContext';
-import { Velustro } from 'uvcanvas';
+
 
 
 
@@ -48,9 +48,7 @@ const Register = () => {
 
 
     <div className="relative h-screen w-full flex items-center justify-center">
-    <div className="absolute top-0 left-0 w-full h-full -z-10">
-            <Velustro />
-          </div>
+
     <div className='h-[calc(100vh-120px)] flex justify-center items-center  '>          
     <div className='w-full max-w-sm mx-auto bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 '>
  
