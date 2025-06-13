@@ -39,7 +39,7 @@ A full-featured Book Store web application built with the **MERN stack** – **M
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/book-store-app.git
+git clone https://github.com/Subramaniyajothi6/book-store-app.git
 cd book-store-app
 ```
 
