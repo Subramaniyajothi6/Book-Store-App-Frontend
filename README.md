@@ -63,8 +63,8 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[🔗 Live Website](https://your-deployment-link.com)  
-[📁 GitHub Repo](https://github.com/your-username/book-store-app)
+[🔗 Live Website]([https://your-deployment-link.com](https://book-store-app-frontend-s1mp.vercel.app/))  
+[📁 GitHub Repo]([https://github.com/your-username/book-store-app](https://github.com/Subramaniyajothi6/Book-Store-App-Frontend))
 
 
 
